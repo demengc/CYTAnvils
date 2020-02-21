@@ -1,0 +1,7 @@
+name: CYTAnvils
+version: ${project.version}
+main: com.demeng7215.cytanvils.CYTAnvils
+api-version: 1.13
+author: Demeng7215
+description: Allow unsafe enchanting in anvils.
+website: https://demeng7215.com
